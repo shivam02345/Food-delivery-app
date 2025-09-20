@@ -66,8 +66,8 @@ Node.js
 MongoDB
 
 🔹 Clone the Repository
-git clone https://github.com/your-username/your-mern-project.git
-cd your-mern-project
+git clone https://github.com/shivam02345/Food-delivery-app.git
+cd Food-delivery-app
 
 🔹 Backend Setup
 cd backend
